@@ -58,11 +58,11 @@ int main() {
 		cout << setprecision(2) << avg;
 		if (avg >= 10.7)
 		{
-			cout << "U will get stepuha=)";
+			cout << "\nU will get stepuha=)";
 		}
 		else
 		{
-			cout << "U will not get stepuha=)";
+			cout << "\nU will not get stepuha=)";
 		}
 	}break;
 	default:
